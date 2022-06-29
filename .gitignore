@@ -50,3 +50,6 @@ build/**/*
 include/*
 lib/*
 bin/*
+
+docs/*
+!docs/source
